@@ -8,6 +8,8 @@ public class SfwpCloneTestApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SfwpCloneTestApplication.class, args);
+		
+		//テスト
 	}
 
 }
